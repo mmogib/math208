@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.21)  12 FEB 2020 08:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.21)  12 FEB 2020 08:09
 entering extended mode
-**D:/Dropbox/KFUPMWork/Teaching/OldSemesters/Sem192/MATH208/lectures/tex/Sec1.6
+**D:/Dropbox/KFUPMWork/Teaching/OldSemesters/Sem192/MATH208/lectures/tex/Sec1.5
 .tex
 
-(D:/Dropbox/KFUPMWork/Teaching/OldSemesters/Sem192/MATH208/lectures/tex/Sec1.6.
+(D:/Dropbox/KFUPMWork/Teaching/OldSemesters/Sem192/MATH208/lectures/tex/Sec1.5.
 tex
 LaTeX2e <2017-04-15>
 Babel <3.16> and hyphenation patterns for 75 language(s) loaded.
@@ -824,21 +824,8 @@ Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
 \Wrappedvisiblespacebox=\box61
 Package hyperref Info: Option `breaklinks' set `true' on input line 359.
 Package hyperref Info: Option `colorlinks' set `true' on input line 359.
- (Sec1.6.aux
-
-LaTeX Warning: Label `example' multiply defined.
-
-
-LaTeX Warning: Label `example' multiply defined.
-
-
-LaTeX Warning: Label `example-1' multiply defined.
-
-
-LaTeX Warning: Label `example' multiply defined.
-
-)
-\openout1 = `Sec1.6.aux'.
+ (Sec1.5.aux)
+\openout1 = `Sec1.5.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 366.
 LaTeX Font Info:    ... okay on input line 366.
@@ -855,7 +842,8 @@ LaTeX Font Info:    ... okay on input line 366.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 366.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 366.
 
- ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 366.
@@ -955,9 +943,9 @@ LaTeX Info: Redefining \ref on input line 366.
 LaTeX Info: Redefining \pageref on input line 366.
 LaTeX Info: Redefining \nameref on input line 366.
 
-(Sec1.6.out) (Sec1.6.out)
+(Sec1.5.out) (Sec1.5.out)
 \@outlinefile=\write7
-\openout7 = `Sec1.6.out'.
+\openout7 = `Sec1.5.out'.
 
 LaTeX Font Info:    Try loading font information for OT1+ppl on input line 368.
 
@@ -1011,90 +999,74 @@ LaTeX Warning: No \author given.
 
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 375.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 11.40997pt on input line 377.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 8.33606pt on input line 377.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 6.25204pt on input line 377.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 11.40997pt on input line 377.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 8.33606pt on input line 377.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 6.25204pt on input line 377.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 378.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 380.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 380.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 380.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 380.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 380.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 380.
-LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 382.
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 384.
+<./imgs/1.5/method.png, id=26, 706.89093pt x 360.59718pt>
+File: ./imgs/1.5/method.png Graphic file (type png)
+<use ./imgs/1.5/method.png>
+Package pdftex.def Info: ./imgs/1.5/method.png  used on input line 394.
+(pdftex.def)             Requested size: 706.8892pt x 360.5963pt.
 [1
 
-{C:/Users/ITC/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]pdfTeX warning
- (ext4): destination with the same identifier (name{example}) has been already 
-used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.456 \subsection{Example}\label{example}}
-                                           [2]
-<./imgs/1.6/theorem.jpg, id=101, 3011.25pt x 1477.52pt>
-File: ./imgs/1.6/theorem.jpg Graphic file (type jpg)
-<use ./imgs/1.6/theorem.jpg>
-Package pdftex.def Info: ./imgs/1.6/theorem.jpg  used on input line 464.
-(pdftex.def)             Requested size: 3011.24269pt x 1477.5164pt.
-pdfTeX warning (ext4): destination with the same identifier (name{example}) has
- been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.469 \subsection{Example}\label{example}}
-                                          pdfTeX warning (ext4): destination wi
-th the same identifier (name{example-1}) has been already used, duplicate ignor
-ed
-<to be read again> 
-                   \relax 
-l.476 \subsection{Example}\label{example-1}}
-                                            
-LaTeX Font Info:    Try loading font information for TS1+ppl on input line 493.
+{C:/Users/ITC/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./imgs/1.5/me
+thod.png>]
+<./imgs/1.5/theorem.png, id=46, 802.49812pt x 277.78781pt>
+File: ./imgs/1.5/theorem.png Graphic file (type png)
+<use ./imgs/1.5/theorem.png>
+Package pdftex.def Info: ./imgs/1.5/theorem.png  used on input line 414.
+(pdftex.def)             Requested size: 802.49615pt x 277.78711pt.
+LaTeX Font Info:    Try loading font information for TS1+ppl on input line 424.
 
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ts1ppl.fd"
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ts1ppl.fd"
 File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
-) [3 <./imgs/1.6/theorem.jpg>]pdfTeX warning (ext4): destination with the same 
-identifier (name{example}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.509 \subsection{Example}\label{example}}
-                                           [4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 518.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 518.
- (Sec1.6.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 518.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 518.
-Package rerunfilecheck Info: File `Sec1.6.out' has not changed.
-(rerunfilecheck)             Checksum: 528C70A6CF384DF4D40F0F418F0BBF41;1119.
+)
+<./imgs/1.5/problems.jpg, id=47, 2240.37pt x 3276.24pt>
+File: ./imgs/1.5/problems.jpg Graphic file (type jpg)
+<use ./imgs/1.5/problems.jpg>
+Package pdftex.def Info: ./imgs/1.5/problems.jpg  used on input line 433.
+(pdftex.def)             Requested size: 2240.36455pt x 3276.23206pt.
 
-
-LaTeX Warning: There were multiply-defined labels.
-
+[2 <./imgs/1.5/theorem.png>] [3 <./imgs/1.5/problems.jpg>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 442.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 442.
+ (Sec1.5.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 442.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 442.
+Package rerunfilecheck Info: File `Sec1.5.out' has not changed.
+(rerunfilecheck)             Checksum: 243DAEDBCD6D210034A3030D9242DE6B;307.
  ) 
 Here is how much of TeX's memory you used:
- 20314 strings out of 493307
- 367517 string characters out of 3138828
- 440301 words of memory out of 3000000
- 23404 multiletter control sequences out of 15000+200000
- 36131 words of font info for 96 fonts, out of 3000000 for 9000
+ 20289 strings out of 493307
+ 367113 string characters out of 3138828
+ 438801 words of memory out of 3000000
+ 23393 multiletter control sequences out of 15000+200000
+ 38613 words of font info for 101 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  54i,6n,77p,956b,357s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
-ype1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/mathp
-azo/fplmri.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb
-><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program F
-iles/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Sec1.6.pdf (4 pages, 287559 bytes).
+/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/mathpazo/fplmri.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/up
+lb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/P
+rogram Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on Sec1.5.pdf (3 pages, 822788 bytes).
 PDF statistics:
- 149 PDF objects out of 1000 (max. 8388607)
- 36 named destinations out of 1000 (max. 500000)
- 154 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 89 PDF objects out of 1000 (max. 8388607)
+ 17 named destinations out of 1000 (max. 500000)
+ 68 words of extra memory for PDF output out of 10000 (max. 10000000)
 
